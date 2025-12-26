@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 
 
-public class pror1 {
+public class prog1 {
     static class CustomException extends Exception{
         public CustomException(){
             System.out.println("Error");
